@@ -13,3 +13,15 @@
 |Title|Author(s)|Publish Date|
 |-----|---------|------------|
 |Society of Mind|Marvin Minsky|1986|
+
+<table>
+  <tr>
+    <th>Title</th><th>Author(s)</th><th>Publish Date</th><th>UIC Library Link</th>
+  </tr>
+  <tr>
+    <td>Perceptrons - An Introduction to Computational Geometry</td>
+    <td>Marvin Minsky and Seymour A. Papert</td>
+    <td>1969</td>
+    <td><a href="http://hz9pj6fe4t.search.serialssolutions.com/log?L=HZ9PJ6FE4T&D=-D2&J=TC_036488562&P=EJP&PT=EZProxy&H=7f7890451a&U=http%3A%2F%2Fproxy.cc.uic.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fieeexplore.ieee.org%2Fservlet%2Fopac%3Fbknumber%3D8076704">UIC Library Link</a></td>
+  </tr>
+</table>
