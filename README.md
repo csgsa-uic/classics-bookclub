@@ -60,12 +60,12 @@ This club exists to facilitate periodic meeting of members to discuss classic wo
     <td>Computing Machinery and Intelligence</td>
     <td>Alan M. Turing</td>
     <td>1950</td>
-    <td><a href="https://www.csee.umbc.edu/courses/471/papers/turing.pdf">UIC Library Link</a></td>
+    <td><a href="https://www.csee.umbc.edu/courses/471/papers/turing.pdf">Link</a></td>
   </tr>
   <tr>
     <td>A Mathematical Theory of Communication</td>
     <td>Claude E. Shannon</td>
     <td>1948</td>
-    <td><a href="http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf">UIC Library Link</a></td>
+    <td><a href="http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf">Link</a></td>
   </tr>
 </table>
