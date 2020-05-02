@@ -34,7 +34,7 @@
     <td>Code: The Hidden Language of Computer Hardware and Software</td>
     <td> Charles Petzold</td>
     <td>1999</td>
-    <td><a href="https://bit.ly/3d7jjkP">Project Gutenberg  Link</td>
+    <td><a href="https://bit.ly/3d7jjkP">Safari Online (via UIC Library)</td>
   </tr>  
 </table>
 
