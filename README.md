@@ -28,7 +28,7 @@
     <td>Hackers, Heroes of the Computer Revolution</td>
     <td>Steven Levy</td>
     <td>1981</td>
-    <td><a href="https://www.gutenberg.org/ebooks/729">Project Gutenberg  Link</td>
+    <td><a href="https://www.gutenberg.org/ebooks/729">Project Gutenberg  Link</a></td>
   </tr>
   <tr>
     <td>Code: The Hidden Language of Computer Hardware and Software</td>
