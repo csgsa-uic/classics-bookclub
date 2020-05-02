@@ -1,4 +1,4 @@
-## The Computer Science Classics Reading Club @ The University of Illinois at Chicago
+## The Computer Science Classics Reading Club @ UIC
 
 This club exists to facilitate periodic meeting of members to discuss classic works pertaining to Computer Science. A list of possible titles now being considered are listed below.
 
