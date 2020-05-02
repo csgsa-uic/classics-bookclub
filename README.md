@@ -16,7 +16,7 @@
     <td>The Mythical Man-Month: Essays on Software Engineering</td>
     <td>Fredrick Brooks</td>
     <td>1975</td>
-    <td><a href="https://bit.ly/3aWwC6r">UIC Library Link</a></td>
+    <td><a href="https://bit.ly/3bX9Zjl">Safari Online (via UIC Library)</a></td>
   </tr>
   <tr>
     <td>The Sciences of the Artificial</td>
