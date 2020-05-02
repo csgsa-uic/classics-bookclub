@@ -34,9 +34,10 @@
     <td>Code: The Hidden Language of Computer Hardware and Software</td>
     <td> Charles Petzold</td>
     <td>1999</td>
-    <td><a href="https://bit.ly/3d7jjkP">Safari Online (via UIC Library)</td>
+    <td><a href="https://bit.ly/3d7jjkP">Safari Online (via UIC Library)</a></td>
   </tr>  
 </table>
+
 
 #### Books Not Available as eBooks via UIC Library
 <table>
