@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome To CSGSA - CS Classics Book Club
 
-You can use the [editor on GitHub](https://github.com/csgsa-uic/classics-bookclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Reading List
+#### eBooks Available Through UIC Library
+- [Perceptrons - An Introduction to Computational Geometry](http://hz9pj6fe4t.search.serialssolutions.com/log?L=HZ9PJ6FE4T&D=-D2&J=TC_036488562&P=EJP&PT=EZProxy&H=7f7890451a&U=http%3A%2F%2Fproxy.cc.uic.edu%2Flogin%3Furl%3Dhttps%3A%2F%2Fieeexplore.ieee.org%2Fservlet%2Fopac%3Fbknumber%3D8076704)
+- [The Mythical Man-Month: Essays on Software Engineering](http://hz9pj6fe4t.search.serialssolutions.com/log?L=HZ9PJ6FE4T&D=OODEK&J=TC0000076748&P=EJP&PT=EZProxy&H=f675005304&U=https%3A%2F%2Flearning.oreilly.com%2Flibrary%2Fview%2F%7E%2F0201835959%2F%3Far)
+- [The Sciences of the Artificial](http://hz9pj6fe4t.search.serialssolutions.com/log?L=HZ9PJ6FE4T&D=OODEK&J=TC0000076748&P=EJP&PT=EZProxy&H=f675005304&U=https%3A%2F%2Flearning.oreilly.com%2Flibrary%2Fview%2F%7E%2F0201835959%2F%3Far)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csgsa-uic/classics-bookclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Books Not Available as eBooks via UIC Library
+- Society of Mind
+-- Author: Marvin Minsky
+-- Publish Date: 1986
