@@ -4,7 +4,7 @@
 #### eBooks Available Through UIC Library
 <table>
   <tr>
-    <th>Title</th><th>Author(s)</th><th>Publish Date</th><th>UIC Library Link</th>
+    <th>Title</th><th>Author(s)</th><th>Publish Date</th><th>Online Link</th>
   </tr>
   <tr>
     <td>Perceptrons - An Introduction to Computational Geometry</td>
@@ -23,6 +23,18 @@
     <td>Herbert A. Simon</td>
     <td>1968</td>
     <td><a href="https://bit.ly/2SmJRH1">UIC Library Link</a></td>
+  </tr>
+  <tr>
+    <td>Hackers, Heroes of the Computer Revolution</td>
+    <td>Steven Levy</td>
+    <td>1981</td>
+    <td><a href="https://www.gutenberg.org/ebooks/729">Project Gutenberg  Link</td>
+  </tr>
+  <tr>
+    <td>Code: The Hidden Language of Computer Hardware and Software</td>
+    <td> Charles Petzold</td>
+    <td>1999</td>
+    <td><a href="https://bit.ly/3d7jjkP">Project Gutenberg  Link</td>
   </tr>  
 </table>
 
