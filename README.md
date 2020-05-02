@@ -1,4 +1,6 @@
-## Welcome To CSGSA - CS Classics Book Club
+## The Computer Science Classics Reading Club @ The University of Illinois at Chicago
+
+This club exists to facilitate periodic meeting of members to discuss classic works pertaining to Computer Science. A list of possible titles now being considered are listed below.
 
 ### Reading List
 #### eBooks Available Through UIC Library
@@ -46,5 +48,24 @@
     <td>Society of Mind</td>
     <td>Marvin Minsky</td>
     <td>1986</td>
+  </tr>
+</table>
+
+#### Classic Research Papers
+<table>
+    <tr>
+    <th>Title</th><th>Author(s)</th><th>Publish Date</th><th>Online Link</th>
+  </tr>
+  <tr>
+    <td>Computing Machinery and Intelligence</td>
+    <td>Alan M. Turing</td>
+    <td>1950</td>
+    <td><a href="https://www.csee.umbc.edu/courses/471/papers/turing.pdf">UIC Library Link</a></td>
+  </tr>
+  <tr>
+    <td>A Mathematical Theory of Communication</td>
+    <td>Claude E. Shannon</td>
+    <td>1948</td>
+    <td><a href="http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf">UIC Library Link</a></td>
   </tr>
 </table>
